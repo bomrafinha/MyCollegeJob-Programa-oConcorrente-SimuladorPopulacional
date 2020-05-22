@@ -1,5 +1,24 @@
 # Simulação de Dinâmica de População
 
+![Github repo age](https://img.shields.io/github/issues/detail/age/bomrafinha/MyCollegeJobs/1.svg?style=flat-square)
+![Github author](https://img.shields.io/github/issues/detail/u/bomrafinha/MyCollegeJobs/1.svg?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/bomrafinha/MyCollegeJobs)
+![GitHub last commit](https://img.shields.io/github/last-commit/bomrafinha/MyCollegeJobs)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/bomrafinha/MyCollegeJobs.svg?style=flat-square)
+
+![GitHub issues](https://img.shields.io/github/issues/bomrafinha/MyCollegeJobs)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/bomrafinha/MyCollegeJobs)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bomrafinha/MyCollegeJobs)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/bomrafinha/MyCollegeJobs)
+![GitHub forks](https://img.shields.io/github/forks/bomrafinha/MyCollegeJobs)
+![GitHub stars](https://img.shields.io/github/stars/bomrafinha/MyCollegeJobs)
+![GitHub All Releases](https://img.shields.io/github/downloads/bomrafinha/MyCollegeJobs/total)
+
+![GitHub top language](https://img.shields.io/github/languages/top/bomrafinha/MyCollegeJobs)
+![GitHub language count](https://img.shields.io/github/languages/count/bomrafinha/MyCollegeJobs)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bomrafinha/MyCollegeJobs)
+![GitHub](https://img.shields.io/github/license/bomrafinha/MyCollegeJobs)
+
 >
 >Trabalho de Programação Concorrente - SIS0564A (UCS - Universidade de Caxias do Sul)
 >
@@ -32,3 +51,10 @@ As moscas seguem o mesmo ciclo de vida de um sapo (mesmo número de calorias dos
 - Linguagens permitidas: Java, C#, C/C++, Python
 - Grupos de no máximo dois alunos
 - Trabalhos iguais serão zerados.
+
+<br />
+
+## Créditos <a name="creditos"></a>
+[@bomrafinha](https://github.com/bomrafinha)
+
+## [Licença](./LICENSE) <a name="licenca"></a>
